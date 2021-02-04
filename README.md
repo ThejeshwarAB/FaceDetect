@@ -1,5 +1,5 @@
 # FaceDetect
 
-Just a random experiment with OpenCV and Python. 
+Just a random experiment with CV2 and Python. 
 
 Thanks to www.realpython.org clear explanations.
